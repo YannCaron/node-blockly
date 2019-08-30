@@ -9,6 +9,7 @@ git clone https://github.com/YannCaron/node-blockly.git
 
 Install npm packages
 ```
+cd node-blockly
 npm install
 ```
 
@@ -30,7 +31,7 @@ npm run prepublish
 ## Install
 
 ```
-npm i @kids-lab.io/node-blockly
+npm i @kids-lab.io/node-blockly -S
 ```
 
 ## Usage
