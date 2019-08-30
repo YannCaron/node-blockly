@@ -31,3 +31,7 @@ build/Release
 node_modules
 
 test/browser
+
+# blockly specific
+blockly/
+closure-library/
