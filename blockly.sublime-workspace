@@ -49,6 +49,9 @@
 	},
 	"file_history":
 	[
+		"/D/projects/web/kids-lab.io/game-lab/dist/tuto/package.json",
+		"/D/projects/web/node-blockly/blockly/core/workspace_svg.js",
+		"/D/projects/web/node-blockly/blockly/core/field.js",
 		"/home/cyann/project/web/node-blockly/blockly/generators/lua/lists.js",
 		"/home/cyann/Desktop/logs-ISup-OPS-07-15052019/SmartAnalysisResult.json",
 		"/home/cyann/Desktop/logs-ISup-OPS-07-15052019/ISup-g-a/SmartSNMPDriver.log_2019-05-10.log",
@@ -106,11 +109,11 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
-		"height": 101.0,
+		"height": 107.0,
 		"where_history":
 		[
 			"<open folders>"
@@ -121,6 +124,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Gesture",
 			"lists_create_with",
 			"\\]",
 			", oid:",
@@ -160,7 +164,7 @@
 	},
 	"incremental_find":
 	{
-		"height": 38.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -196,7 +200,7 @@
 	"pinned_build_system": "",
 	"replace":
 	{
-		"height": 70.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":

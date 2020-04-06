@@ -1,10 +1,10 @@
 /.idea
+.history/
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
 # Logs
 logs
 *.log
-package-lock.json
 
 # Runtime data
 pids
@@ -33,6 +33,11 @@ node_modules
 test/browser
 
 # blockly specific
-blockly/
-closure-library/
-lib/
+blockly
+closure-library
+lib
+
+# npm
+.lock
+yarn.lock
+package-lock.json
